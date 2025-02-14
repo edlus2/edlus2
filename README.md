@@ -1,14 +1,20 @@
-👋 Olá, sou @edlus2
+🚀 Olá, sou @edlus2 – Criador, Desenvolvedor e Entusiasta da Tecnologia!
 
-👀 Tenho interesse em desenvolvimento web, programação em Python e tecnologia 3D.
+🔍 O que me fascina?
 
-🌱 Atualmente, estou aprendendo Python (Intermediário), MySQL e aprimorando minhas habilidades em design 3D.
+Desenvolvimento Web: Transformando ideias em soluções práticas e eficientes.
+Programação Python: Buscando dominar a linguagem e aplicá-la em projetos desafiadores.
+Tecnologia 3D: Criando e projetando mundos digitais que ganham vida.
+🌱 Em constante evolução!
+Atualmente, estou aprendendo Python (Intermediário), me aprofundando em MySQL e aprimorando minhas habilidades em design 3D para criar experiências imersivas.
 
-💞️ Estou buscando colaborar em projetos de programação, inovações tecnológicas e modelagem 3D.
+💡 Pronto para colaborar?
+Se você está trabalhando em projetos de programação, inovações tecnológicas ou modelagem 3D, estou sempre à procura de oportunidades para colaborar e aprender com outros desenvolvedores e criadores!
 
-📫 Como me encontrar: edgar.ludis2@gmail.com ou conecte-se via LinkedIn.
+📫 Vamos conversar!
+Me encontre em: edgar.ludis2@gmail.com ou conecte-se via LinkedIn(www.linkedin.com/in/edgar-peixoto-552432209).
 
-⚡ Curiosidade: Adoro resolver desafios de programação e construir projetos 3D!
+⚡ Curiosidade: Sempre à procura de um novo desafio de programação ou projeto criativo em 3D – sou movido por resolver problemas e explorar novas possibilidades!
 
 
 <!---
