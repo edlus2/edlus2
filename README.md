@@ -13,7 +13,6 @@ Se você está trabalhando em projetos de programação, inovações tecnológic
 
 📫 Vamos conversar!
 Me encontre em: edgar.ludis2@gmail.com ou conecte-se via [LinkedIn](www.linkedin.com/in/edlus2)
-.
 
 ⚡ Curiosidade: Sempre à procura de um novo desafio de programação ou projeto criativo em 3D – sou movido por resolver problemas e explorar novas possibilidades!
 
